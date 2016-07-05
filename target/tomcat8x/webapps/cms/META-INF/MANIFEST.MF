@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Implementation-Title: Calvin Website CMS
+Implementation-Version: 0.1.0-SNAPSHOT
+Archiver-Version: Plexus Archiver
+Built-By: Nick
+Project-Build: -1
+Implementation-Vendor-Id: com.achxis.calvin
+Project-Version: 0.1.0-SNAPSHOT
+Hippo-Release-Version: 10.2.0
+Created-By: Apache Maven 3.3.9
+Build-Jdk: 1.8.0_91
+Implementation-Vendor: 
+
