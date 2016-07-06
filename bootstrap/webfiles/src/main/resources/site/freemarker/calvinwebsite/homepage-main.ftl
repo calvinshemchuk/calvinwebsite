@@ -9,6 +9,8 @@
  .shadow-effect{
  text-shadow:0 0 6px #000;
  }
+
+
 </style>
 <!--
 <div class="test-class">
@@ -16,4 +18,5 @@
 </div>
 <a class="test-class" href="http://www.google.com">Click Here</a>
 -->
+
 <@hst.include ref="container"/>
